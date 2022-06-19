@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Workwithnk
 - 👀 I’m interested in developing world.
-- 🌱 I’m currently learning MERN Stack development.
+- 🌱 I’m currently learning MERN Stack development || NextJs.
 - 💞️ I’m looking to collaborate on my development.
 - 📫 nikhilkavathiya@gmail.com
 
